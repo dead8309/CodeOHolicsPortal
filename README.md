@@ -2,6 +2,12 @@
 
 Hack-4-Mini is the ultimate Inter-College Online Coding Contest
 
+## Status
+Won🏆 the event and our team secured #1 place
+
+![Screenshot_20231108-212737_Instagram](https://github.com/dead8309/CodeOHolicsPortal/assets/68665948/9e481d9a-df27-4ee8-8f93-69f9d122aef3)
+
+
 ## Description
 
 This is the frontend of the CodeOholics portal. It is built using NextJS, shadcn/ui and TailwindCSS. The backend lies in another [repository](https://github.com/solo8116/CodeOHolicsBackend).
